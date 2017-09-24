@@ -1,0 +1,79 @@
+a img {
+width:0px;
+height:0px;
+}
+#content {
+    border: 1px solid;
+    margin:2% 10% 0% 10%;
+    padding:10px;
+    // top right bottom left
+}
+a {
+size:0%;
+}
+table {
+    width:100%;
+    // border:1px solid;
+}
+table td{
+    height: 40px;
+    font-size: 135%;
+    // border:1px solid;
+}
+#search_user {
+    width:35%;
+}
+#search_input {
+    height:100%;
+    width:100%;
+    font-size: 100%;
+}
+#avatar {
+    padding-left:30px;
+    width:100px;
+}
+#search_photo {
+    width:0px;
+}
+#hero {
+    margin-left:30px;
+    margin-right: 10px;
+}
+#info {
+    vertical-align: bottom;
+}
+#profile {
+    border:0px solid;
+}
+#search_photo button {
+    background: white;
+    border: 0px;
+    border-color:white;
+}
+#QQ {
+    padding-top:15px;
+}
+.all-ranks {
+    float: left;
+    width: 52px;
+    height: 26px;
+}
+
+.l-d1 {				background: url('https://iccup.com/templates/images/lRanks/d1.png') no-repeat 0 0;			}
+.l-d2 {				background: url('https://iccup.com/templates/images/lRanks/d2.png') no-repeat 0 0;			}
+.l-d3 {				background: url('https://iccup.com/templates/images/lRanks/d3.png') no-repeat 0 0;			}
+.l-c1 {				background: url('https://iccup.com/templates/images/lRanks/c1.png') no-repeat 0 0;			}
+.l-c2 {				background: url('https://iccup.com/templates/images/lRanks/c2.png') no-repeat 0 0;			}
+.l-c3 {				background: url('https://iccup.com/templates/images/lRanks/c3.png') no-repeat 0 0;			}
+.l-b1 {				background: url('https://iccup.com/templates/images/lRanks/b1.png') no-repeat 0 0;			}
+.l-b2 {				background: url('https://iccup.com/templates/images/lRanks/b2.png') no-repeat 0 0;			}
+.l-b3 {				background: url('https://iccup.com/templates/images/lRanks/b3.png') no-repeat 0 0;			}
+.l-a1 {				background: url('https://iccup.com/templates/images/lRanks/a1.png') no-repeat 0 0;			}
+.l-a2 {				background: url('https://iccup.com/templates/images/lRanks/a2.png') no-repeat 0 0;			}
+.l-a3 {				background: url('https://iccup.com/templates/images/lRanks/a3.png') no-repeat 0 0;			}
+.l-ooooo {			background: url('https://iccup.com/templates/images/lRanks/ooooo.png') no-repeat 0 0;	    }
+.l-cpu {			background: url('https://iccup.com/templates/images/lRanks/cpu.png') no-repeat 0 0;	    }
+.i-pts {
+    float: left;
+    padding: 4px 0 0 5px;
+}
